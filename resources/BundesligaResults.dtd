@@ -1,0 +1,25 @@
+<!-- DTD für Bundesliga Ergebnisse -->
+<!ELEMENT bundesliga_results (season+)>
+
+<!ELEMENT season (round+)>
+<!ATTLIST season
+	name CDATA #REQUIRED
+>
+
+<!ELEMENT round (match+)>
+<!ATTLIST round
+	round_number CDATA #REQUIRED
+>
+
+<!ELEMENT match (home_team, away_team, result)>
+<!ATTLIST match
+	location CDATA #REQUIRED
+	date CDATA #REQUIRED
+>
+<!ELEMENT home_team (#PCDATA)>
+<!ELEMENT away_team (#PCDATA)>
+
+<!ELEMENT result (#PCDATA)>
+<!ATTLIST result 
+	res (WIN_HOME |WIN_AWAY | DRAW | NA) NA
+>

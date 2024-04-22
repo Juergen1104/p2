@@ -1,0 +1,307 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,13/08/2021 18:30,Borussia-Park,Borussia Mönchengladbach,FC Bayern München,1 - 1
+2,1,14/08/2021 13:30,Schüco-Arena,Arminia Bielefeld,SC Freiburg,0 - 0
+3,1,14/08/2021 13:30,WWK Arena,FC Augsburg,TSG Hoffenheim,0 - 4
+4,1,14/08/2021 13:30,Mercedes-Benz Arena,VfB Stuttgart,SpVgg Greuther Fürth,5 - 1
+5,1,14/08/2021 13:30,Stadion An der Alten Försterei,1. FC Union Berlin,Bayer 04 Leverkusen,1 - 1
+6,1,14/08/2021 13:30,Volkswagen Arena,VfL Wolfsburg,VfL Bochum,1 - 0
+7,1,14/08/2021 16:30,Signal Iduna Park,Borussia Dortmund,Eintracht Frankfurt,5 - 2
+8,1,15/08/2021 13:30,Opel Arena,1. FSV Mainz 05,RB Leipzig,1 - 0
+9,1,15/08/2021 15:30,RheinEnergieStadion,1. FC Köln,Hertha BSC,3 - 1
+10,2,20/08/2021 18:30,Red Bull Arena,RB Leipzig,VfB Stuttgart,4 - 0
+11,2,21/08/2021 13:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,Arminia Bielefeld,1 - 1
+12,2,21/08/2021 13:30,Vonovia Ruhrstadion,VfL Bochum,1. FSV Mainz 05,2 - 0
+13,2,21/08/2021 13:30,Olympiastadion,Hertha BSC,VfL Wolfsburg,1 - 2
+14,2,21/08/2021 13:30,SC-Stadion,SC Freiburg,Borussia Dortmund,2 - 1
+15,2,21/08/2021 13:30,Deutsche Bank Park,Eintracht Frankfurt,FC Augsburg,0 - 0
+16,2,21/08/2021 16:30,BayArena,Bayer 04 Leverkusen,Borussia Mönchengladbach,4 - 0
+17,2,22/08/2021 13:30,PreZero Arena,TSG Hoffenheim,1. FC Union Berlin,2 - 2
+18,2,22/08/2021 15:30,Allianz Arena,FC Bayern München,1. FC Köln,3 - 2
+19,3,27/08/2021 18:30,Signal Iduna Park,Borussia Dortmund,TSG Hoffenheim,3 - 2
+20,3,28/08/2021 13:30,RheinEnergieStadion,1. FC Köln,VfL Bochum,2 - 1
+21,3,28/08/2021 13:30,Schüco-Arena,Arminia Bielefeld,Eintracht Frankfurt,1 - 1
+22,3,28/08/2021 13:30,WWK Arena,FC Augsburg,Bayer 04 Leverkusen,1 - 4
+23,3,28/08/2021 13:30,Opel Arena,1. FSV Mainz 05,SpVgg Greuther Fürth,3 - 0
+24,3,28/08/2021 13:30,Mercedes-Benz Arena,VfB Stuttgart,SC Freiburg,2 - 3
+25,3,28/08/2021 16:30,Allianz Arena,FC Bayern München,Hertha BSC,5 - 0
+26,3,29/08/2021 13:30,Stadion An der Alten Försterei,1. FC Union Berlin,Borussia Mönchengladbach,2 - 1
+27,3,29/08/2021 15:30,Volkswagen Arena,VfL Wolfsburg,RB Leipzig,1 - 0
+28,4,11/09/2021 13:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,VfL Wolfsburg,0 - 2
+29,4,11/09/2021 13:30,PreZero Arena,TSG Hoffenheim,1. FSV Mainz 05,0 - 2
+30,4,11/09/2021 13:30,SC-Stadion,SC Freiburg,1. FC Köln,1 - 1
+31,4,11/09/2021 13:30,Stadion An der Alten Försterei,1. FC Union Berlin,FC Augsburg,0 - 0
+32,4,11/09/2021 13:30,BayArena,Bayer 04 Leverkusen,Borussia Dortmund,3 - 4
+33,4,11/09/2021 16:30,Red Bull Arena,RB Leipzig,FC Bayern München,1 - 4
+34,4,12/09/2021 13:30,Deutsche Bank Park,Eintracht Frankfurt,VfB Stuttgart,1 - 1
+35,4,12/09/2021 15:30,Vonovia Ruhrstadion,VfL Bochum,Hertha BSC,1 - 3
+36,4,12/09/2021 17:30,Borussia-Park,Borussia Mönchengladbach,Arminia Bielefeld,3 - 1
+37,5,17/09/2021 18:30,Olympiastadion,Hertha BSC,SpVgg Greuther Fürth,2 - 1
+38,5,18/09/2021 13:30,Schüco-Arena,Arminia Bielefeld,TSG Hoffenheim,0 - 0
+39,5,18/09/2021 13:30,WWK Arena,FC Augsburg,Borussia Mönchengladbach,1 - 0
+40,5,18/09/2021 13:30,Opel Arena,1. FSV Mainz 05,SC Freiburg,0 - 0
+41,5,18/09/2021 13:30,Allianz Arena,FC Bayern München,VfL Bochum,7 - 0
+42,5,18/09/2021 16:30,RheinEnergieStadion,1. FC Köln,RB Leipzig,1 - 1
+43,5,19/09/2021 13:30,Mercedes-Benz Arena,VfB Stuttgart,Bayer 04 Leverkusen,1 - 3
+44,5,19/09/2021 15:30,Signal Iduna Park,Borussia Dortmund,1. FC Union Berlin,4 - 2
+45,5,19/09/2021 17:30,Volkswagen Arena,VfL Wolfsburg,Eintracht Frankfurt,1 - 1
+46,6,24/09/2021 18:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,FC Bayern München,1 - 3
+47,6,25/09/2021 13:30,PreZero Arena,TSG Hoffenheim,VfL Wolfsburg,3 - 1
+48,6,25/09/2021 13:30,Stadion An der Alten Försterei,1. FC Union Berlin,Arminia Bielefeld,1 - 0
+49,6,25/09/2021 13:30,BayArena,Bayer 04 Leverkusen,1. FSV Mainz 05,1 - 0
+50,6,25/09/2021 13:30,Deutsche Bank Park,Eintracht Frankfurt,1. FC Köln,1 - 1
+51,6,25/09/2021 13:30,Red Bull Arena,RB Leipzig,Hertha BSC,6 - 0
+52,6,25/09/2021 16:30,Borussia-Park,Borussia Mönchengladbach,Borussia Dortmund,1 - 0
+53,6,26/09/2021 13:30,Vonovia Ruhrstadion,VfL Bochum,VfB Stuttgart,0 - 0
+54,6,26/09/2021 15:30,SC-Stadion,SC Freiburg,FC Augsburg,3 - 0
+55,7,01/10/2021 18:30,RheinEnergieStadion,1. FC Köln,SpVgg Greuther Fürth,3 - 1
+57,7,02/10/2021 13:30,Olympiastadion,Hertha BSC,SC Freiburg,1 - 2
+59,7,02/10/2021 13:30,Mercedes-Benz Arena,VfB Stuttgart,TSG Hoffenheim,3 - 1
+60,7,02/10/2021 13:30,Volkswagen Arena,VfL Wolfsburg,Borussia Mönchengladbach,1 - 3
+61,7,02/10/2021 13:30,Signal Iduna Park,Borussia Dortmund,FC Augsburg,2 - 1
+62,7,02/10/2021 16:30,Red Bull Arena,RB Leipzig,VfL Bochum,3 - 0
+58,7,03/10/2021 13:30,Opel Arena,1. FSV Mainz 05,1. FC Union Berlin,1 - 2
+63,7,03/10/2021 15:30,Allianz Arena,FC Bayern München,Eintracht Frankfurt,1 - 2
+56,7,03/10/2021 17:30,Schüco-Arena,Arminia Bielefeld,Bayer 04 Leverkusen,0 - 4
+66,8,15/10/2021 18:30,PreZero Arena,TSG Hoffenheim,1. FC Köln,5 - 0
+64,8,16/10/2021 13:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,VfL Bochum,0 - 1
+67,8,16/10/2021 13:30,SC-Stadion,SC Freiburg,RB Leipzig,1 - 1
+69,8,16/10/2021 13:30,Stadion An der Alten Försterei,1. FC Union Berlin,VfL Wolfsburg,2 - 0
+71,8,16/10/2021 13:30,Deutsche Bank Park,Eintracht Frankfurt,Hertha BSC,1 - 2
+72,8,16/10/2021 13:30,Signal Iduna Park,Borussia Dortmund,1. FSV Mainz 05,3 - 1
+68,8,16/10/2021 16:30,Borussia-Park,Borussia Mönchengladbach,VfB Stuttgart,1 - 1
+70,8,17/10/2021 13:30,BayArena,Bayer 04 Leverkusen,FC Bayern München,1 - 5
+65,8,17/10/2021 15:30,WWK Arena,FC Augsburg,Arminia Bielefeld,1 - 1
+77,9,22/10/2021 18:30,Opel Arena,1. FSV Mainz 05,FC Augsburg,4 - 1
+75,9,23/10/2021 13:30,Schüco-Arena,Arminia Bielefeld,Borussia Dortmund,1 - 3
+79,9,23/10/2021 13:30,Volkswagen Arena,VfL Wolfsburg,SC Freiburg,0 - 2
+80,9,23/10/2021 13:30,Red Bull Arena,RB Leipzig,SpVgg Greuther Fürth,4 - 1
+81,9,23/10/2021 13:30,Allianz Arena,FC Bayern München,TSG Hoffenheim,4 - 0
+76,9,23/10/2021 16:30,Olympiastadion,Hertha BSC,Borussia Mönchengladbach,1 - 0
+74,9,24/10/2021 13:30,RheinEnergieStadion,1. FC Köln,Bayer 04 Leverkusen,2 - 2
+78,9,24/10/2021 15:30,Mercedes-Benz Arena,VfB Stuttgart,1. FC Union Berlin,1 - 1
+73,9,24/10/2021 17:30,Vonovia Ruhrstadion,VfL Bochum,Eintracht Frankfurt,2 - 0
+84,10,29/10/2021 18:30,PreZero Arena,TSG Hoffenheim,Hertha BSC,2 - 0
+82,10,30/10/2021 13:30,Schüco-Arena,Arminia Bielefeld,1. FSV Mainz 05,1 - 2
+85,10,30/10/2021 13:30,SC-Stadion,SC Freiburg,SpVgg Greuther Fürth,3 - 1
+87,10,30/10/2021 13:30,Stadion An der Alten Försterei,1. FC Union Berlin,FC Bayern München,2 - 5
+88,10,30/10/2021 13:30,BayArena,Bayer 04 Leverkusen,VfL Wolfsburg,0 - 2
+90,10,30/10/2021 13:30,Signal Iduna Park,Borussia Dortmund,1. FC Köln,2 - 0
+89,10,30/10/2021 16:30,Deutsche Bank Park,Eintracht Frankfurt,RB Leipzig,1 - 1
+83,10,31/10/2021 14:30,WWK Arena,FC Augsburg,VfB Stuttgart,4 - 1
+86,10,31/10/2021 16:30,Borussia-Park,Borussia Mönchengladbach,VfL Bochum,2 - 1
+95,11,05/11/2021 19:30,Opel Arena,1. FSV Mainz 05,Borussia Mönchengladbach,1 - 1
+92,11,06/11/2021 14:30,Vonovia Ruhrstadion,VfL Bochum,TSG Hoffenheim,2 - 0
+96,11,06/11/2021 14:30,Mercedes-Benz Arena,VfB Stuttgart,Arminia Bielefeld,0 - 1
+97,11,06/11/2021 14:30,Volkswagen Arena,VfL Wolfsburg,FC Augsburg,1 - 0
+99,11,06/11/2021 14:30,Allianz Arena,FC Bayern München,SC Freiburg,2 - 1
+98,11,06/11/2021 17:30,Red Bull Arena,RB Leipzig,Borussia Dortmund,2 - 1
+94,11,07/11/2021 14:30,Olympiastadion,Hertha BSC,Bayer 04 Leverkusen,1 - 1
+93,11,07/11/2021 16:30,RheinEnergieStadion,1. FC Köln,1. FC Union Berlin,2 - 2
+91,11,07/11/2021 18:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,Eintracht Frankfurt,1 - 2
+101,12,19/11/2021 19:30,WWK Arena,FC Augsburg,FC Bayern München,2 - 1
+100,12,20/11/2021 14:30,Schüco-Arena,Arminia Bielefeld,VfL Wolfsburg,2 - 2
+103,12,20/11/2021 14:30,PreZero Arena,TSG Hoffenheim,RB Leipzig,2 - 0
+105,12,20/11/2021 14:30,Borussia-Park,Borussia Mönchengladbach,SpVgg Greuther Fürth,4 - 0
+107,12,20/11/2021 14:30,BayArena,Bayer 04 Leverkusen,VfL Bochum,1 - 0
+108,12,20/11/2021 14:30,Signal Iduna Park,Borussia Dortmund,VfB Stuttgart,2 - 1
+106,12,20/11/2021 17:30,Stadion An der Alten Försterei,1. FC Union Berlin,Hertha BSC,2 - 0
+104,12,21/11/2021 14:30,SC-Stadion,SC Freiburg,Eintracht Frankfurt,0 - 2
+102,12,21/11/2021 16:30,Opel Arena,1. FSV Mainz 05,1. FC Köln,1 - 1
+113,13,26/11/2021 19:30,Mercedes-Benz Arena,VfB Stuttgart,1. FSV Mainz 05,2 - 1
+109,13,27/11/2021 14:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,TSG Hoffenheim,3 - 6
+110,13,27/11/2021 14:30,Vonovia Ruhrstadion,VfL Bochum,SC Freiburg,2 - 1
+111,13,27/11/2021 14:30,RheinEnergieStadion,1. FC Köln,Borussia Mönchengladbach,4 - 1
+112,13,27/11/2021 14:30,Olympiastadion,Hertha BSC,FC Augsburg,1 - 1
+115,13,27/11/2021 14:30,Volkswagen Arena,VfL Wolfsburg,Borussia Dortmund,1 - 3
+117,13,27/11/2021 17:30,Allianz Arena,FC Bayern München,Arminia Bielefeld,1 - 0
+114,13,28/11/2021 14:30,Deutsche Bank Park,Eintracht Frankfurt,1. FC Union Berlin,2 - 1
+116,13,28/11/2021 16:30,Red Bull Arena,RB Leipzig,Bayer 04 Leverkusen,1 - 3
+124,14,03/12/2021 19:30,Stadion An der Alten Försterei,1. FC Union Berlin,RB Leipzig,2 - 1
+118,14,04/12/2021 14:30,Schüco-Arena,Arminia Bielefeld,1. FC Köln,1 - 1
+119,14,04/12/2021 14:30,WWK Arena,FC Augsburg,VfL Bochum,2 - 3
+120,14,04/12/2021 14:30,Opel Arena,1. FSV Mainz 05,VfL Wolfsburg,3 - 0
+121,14,04/12/2021 14:30,PreZero Arena,TSG Hoffenheim,Eintracht Frankfurt,3 - 2
+125,14,04/12/2021 14:30,BayArena,Bayer 04 Leverkusen,SpVgg Greuther Fürth,7 - 1
+126,14,04/12/2021 17:30,Signal Iduna Park,Borussia Dortmund,FC Bayern München,2 - 3
+122,14,05/12/2021 14:30,Mercedes-Benz Arena,VfB Stuttgart,Hertha BSC,2 - 2
+123,14,05/12/2021 16:30,Borussia-Park,Borussia Mönchengladbach,SC Freiburg,0 - 6
+129,15,10/12/2021 19:30,RheinEnergieStadion,1. FC Köln,FC Augsburg,0 - 2
+128,15,11/12/2021 14:30,Vonovia Ruhrstadion,VfL Bochum,Borussia Dortmund,1 - 1
+130,15,11/12/2021 14:30,Olympiastadion,Hertha BSC,Arminia Bielefeld,2 - 0
+131,15,11/12/2021 14:30,SC-Stadion,SC Freiburg,TSG Hoffenheim,1 - 2
+134,15,11/12/2021 14:30,Red Bull Arena,RB Leipzig,Borussia Mönchengladbach,4 - 1
+135,15,11/12/2021 14:30,Allianz Arena,FC Bayern München,1. FSV Mainz 05,2 - 1
+133,15,11/12/2021 17:30,Volkswagen Arena,VfL Wolfsburg,VfB Stuttgart,0 - 2
+127,15,12/12/2021 14:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,1. FC Union Berlin,1 - 0
+132,15,12/12/2021 16:30,Deutsche Bank Park,Eintracht Frankfurt,Bayer 04 Leverkusen,5 - 2
+139,16,14/12/2021 17:30,Mercedes-Benz Arena,VfB Stuttgart,FC Bayern München,0 - 5
+136,16,14/12/2021 19:30,Schüco-Arena,Arminia Bielefeld,VfL Bochum,2 - 0
+138,16,14/12/2021 19:30,Opel Arena,1. FSV Mainz 05,Hertha BSC,4 - 0
+143,16,14/12/2021 19:30,Volkswagen Arena,VfL Wolfsburg,1. FC Köln,2 - 3
+140,16,15/12/2021 17:30,Borussia-Park,Borussia Mönchengladbach,Eintracht Frankfurt,2 - 3
+137,16,15/12/2021 19:30,WWK Arena,FC Augsburg,RB Leipzig,1 - 1
+141,16,15/12/2021 19:30,Stadion An der Alten Försterei,1. FC Union Berlin,SC Freiburg,0 - 0
+142,16,15/12/2021 19:30,BayArena,Bayer 04 Leverkusen,TSG Hoffenheim,2 - 2
+144,16,15/12/2021 19:30,Signal Iduna Park,Borussia Dortmund,SpVgg Greuther Fürth,3 - 0
+153,17,17/12/2021 19:30,Allianz Arena,FC Bayern München,VfL Wolfsburg,4 - 0
+145,17,18/12/2021 14:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,FC Augsburg,0 - 0
+146,17,18/12/2021 14:30,Vonovia Ruhrstadion,VfL Bochum,1. FC Union Berlin,0 - 1
+149,17,18/12/2021 14:30,PreZero Arena,TSG Hoffenheim,Borussia Mönchengladbach,1 - 1
+151,17,18/12/2021 14:30,Deutsche Bank Park,Eintracht Frankfurt,1. FSV Mainz 05,1 - 0
+152,17,18/12/2021 14:30,Red Bull Arena,RB Leipzig,Arminia Bielefeld,0 - 2
+148,17,18/12/2021 17:30,Olympiastadion,Hertha BSC,Borussia Dortmund,3 - 2
+150,17,19/12/2021 14:30,SC-Stadion,SC Freiburg,Bayer 04 Leverkusen,2 - 1
+147,17,19/12/2021 16:30,RheinEnergieStadion,1. FC Köln,VfB Stuttgart,1 - 0
+162,18,07/01/2022 19:30,Allianz Arena,FC Bayern München,Borussia Mönchengladbach,1 - 2
+154,18,08/01/2022 14:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,VfB Stuttgart,0 - 0
+157,18,08/01/2022 14:30,PreZero Arena,TSG Hoffenheim,FC Augsburg,3 - 1
+158,18,08/01/2022 14:30,SC-Stadion,SC Freiburg,Arminia Bielefeld,2 - 2
+159,18,08/01/2022 14:30,BayArena,Bayer 04 Leverkusen,1. FC Union Berlin,2 - 2
+161,18,08/01/2022 14:30,Red Bull Arena,RB Leipzig,1. FSV Mainz 05,4 - 1
+160,18,08/01/2022 17:30,Deutsche Bank Park,Eintracht Frankfurt,Borussia Dortmund,2 - 3
+156,18,09/01/2022 14:30,Olympiastadion,Hertha BSC,1. FC Köln,1 - 3
+155,18,09/01/2022 16:30,Vonovia Ruhrstadion,VfL Bochum,VfL Wolfsburg,1 - 0
+171,19,14/01/2022 19:30,Signal Iduna Park,Borussia Dortmund,SC Freiburg,5 - 1
+163,19,15/01/2022 14:30,RheinEnergieStadion,1. FC Köln,FC Bayern München,0 - 4
+166,19,15/01/2022 14:30,Opel Arena,1. FSV Mainz 05,VfL Bochum,1 - 0
+167,19,15/01/2022 14:30,Mercedes-Benz Arena,VfB Stuttgart,RB Leipzig,0 - 2
+169,19,15/01/2022 14:30,Stadion An der Alten Försterei,1. FC Union Berlin,TSG Hoffenheim,2 - 1
+170,19,15/01/2022 14:30,Volkswagen Arena,VfL Wolfsburg,Hertha BSC,0 - 0
+168,19,15/01/2022 17:30,Borussia-Park,Borussia Mönchengladbach,Bayer 04 Leverkusen,1 - 2
+165,19,16/01/2022 14:30,WWK Arena,FC Augsburg,Eintracht Frankfurt,1 - 1
+164,19,16/01/2022 16:30,Schüco-Arena,Arminia Bielefeld,SpVgg Greuther Fürth,2 - 2
+179,20,21/01/2022 19:30,Deutsche Bank Park,Eintracht Frankfurt,Arminia Bielefeld,0 - 2
+172,20,22/01/2022 14:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,1. FSV Mainz 05,2 - 1
+175,20,22/01/2022 14:30,PreZero Arena,TSG Hoffenheim,Borussia Dortmund,2 - 3
+176,20,22/01/2022 14:30,SC-Stadion,SC Freiburg,VfB Stuttgart,2 - 0
+177,20,22/01/2022 14:30,Borussia-Park,Borussia Mönchengladbach,1. FC Union Berlin,1 - 2
+178,20,22/01/2022 14:30,BayArena,Bayer 04 Leverkusen,FC Augsburg,5 - 1
+173,20,22/01/2022 17:30,Vonovia Ruhrstadion,VfL Bochum,1. FC Köln,2 - 2
+180,20,23/01/2022 14:30,Red Bull Arena,RB Leipzig,VfL Wolfsburg,2 - 0
+174,20,23/01/2022 16:30,Olympiastadion,Hertha BSC,FC Bayern München,1 - 4
+183,21,04/02/2022 19:30,Olympiastadion,Hertha BSC,VfL Bochum,1 - 1
+181,21,05/02/2022 14:30,RheinEnergieStadion,1. FC Köln,SC Freiburg,1 - 0
+182,21,05/02/2022 14:30,Schüco-Arena,Arminia Bielefeld,Borussia Mönchengladbach,1 - 1
+184,21,05/02/2022 14:30,WWK Arena,FC Augsburg,1. FC Union Berlin,2 - 0
+185,21,05/02/2022 14:30,Opel Arena,1. FSV Mainz 05,TSG Hoffenheim,2 - 0
+186,21,05/02/2022 14:30,Mercedes-Benz Arena,VfB Stuttgart,Eintracht Frankfurt,2 - 3
+189,21,05/02/2022 17:30,Allianz Arena,FC Bayern München,RB Leipzig,3 - 2
+188,21,06/02/2022 14:30,Signal Iduna Park,Borussia Dortmund,Bayer 04 Leverkusen,2 - 5
+187,21,06/02/2022 16:30,Volkswagen Arena,VfL Wolfsburg,SpVgg Greuther Fürth,4 - 1
+198,22,11/02/2022 19:30,Red Bull Arena,RB Leipzig,1. FC Köln,3 - 1
+190,22,12/02/2022 14:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,Hertha BSC,2 - 1
+191,22,12/02/2022 14:30,Vonovia Ruhrstadion,VfL Bochum,FC Bayern München,4 - 2
+193,22,12/02/2022 14:30,SC-Stadion,SC Freiburg,1. FSV Mainz 05,1 - 1
+194,22,12/02/2022 14:30,Borussia-Park,Borussia Mönchengladbach,FC Augsburg,3 - 2
+197,22,12/02/2022 14:30,Deutsche Bank Park,Eintracht Frankfurt,VfL Wolfsburg,0 - 2
+196,22,12/02/2022 17:30,BayArena,Bayer 04 Leverkusen,VfB Stuttgart,4 - 2
+195,22,13/02/2022 14:30,Stadion An der Alten Försterei,1. FC Union Berlin,Borussia Dortmund,0 - 3
+192,22,13/02/2022 16:30,PreZero Arena,TSG Hoffenheim,Arminia Bielefeld,2 - 0
+203,23,18/02/2022 19:30,Opel Arena,1. FSV Mainz 05,Bayer 04 Leverkusen,3 - 2
+200,23,19/02/2022 14:30,Schüco-Arena,Arminia Bielefeld,1. FC Union Berlin,1 - 0
+202,23,19/02/2022 14:30,WWK Arena,FC Augsburg,SC Freiburg,1 - 2
+204,23,19/02/2022 14:30,Mercedes-Benz Arena,VfB Stuttgart,VfL Bochum,1 - 1
+205,23,19/02/2022 14:30,Volkswagen Arena,VfL Wolfsburg,TSG Hoffenheim,1 - 2
+199,23,19/02/2022 17:30,RheinEnergieStadion,1. FC Köln,Eintracht Frankfurt,1 - 0
+207,23,20/02/2022 14:30,Allianz Arena,FC Bayern München,SpVgg Greuther Fürth,4 - 1
+206,23,20/02/2022 16:30,Signal Iduna Park,Borussia Dortmund,Borussia Mönchengladbach,6 - 0
+201,23,20/02/2022 18:30,Olympiastadion,Hertha BSC,RB Leipzig,1 - 6
+211,24,25/02/2022 19:30,PreZero Arena,TSG Hoffenheim,VfB Stuttgart,2 - 1
+208,24,26/02/2022 14:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,1. FC Köln,1 - 1
+212,24,26/02/2022 14:30,SC-Stadion,SC Freiburg,Hertha BSC,3 - 0
+213,24,26/02/2022 14:30,Borussia-Park,Borussia Mönchengladbach,VfL Wolfsburg,2 - 2
+214,24,26/02/2022 14:30,Stadion An der Alten Försterei,1. FC Union Berlin,1. FSV Mainz 05,3 - 1
+215,24,26/02/2022 14:30,BayArena,Bayer 04 Leverkusen,Arminia Bielefeld,3 - 0
+216,24,26/02/2022 17:30,Deutsche Bank Park,Eintracht Frankfurt,FC Bayern München,0 - 1
+209,24,27/02/2022 14:30,Vonovia Ruhrstadion,VfL Bochum,RB Leipzig,0 - 1
+210,24,27/02/2022 16:30,WWK Arena,FC Augsburg,Borussia Dortmund,1 - 1
+219,25,04/03/2022 19:30,Schüco-Arena,Arminia Bielefeld,FC Augsburg,0 - 1
+217,25,05/03/2022 14:30,Vonovia Ruhrstadion,VfL Bochum,SpVgg Greuther Fürth,2 - 1
+220,25,05/03/2022 14:30,Olympiastadion,Hertha BSC,Eintracht Frankfurt,1 - 4
+223,25,05/03/2022 14:30,Volkswagen Arena,VfL Wolfsburg,1. FC Union Berlin,1 - 0
+224,25,05/03/2022 14:30,Red Bull Arena,RB Leipzig,SC Freiburg,1 - 1
+225,25,05/03/2022 14:30,Allianz Arena,FC Bayern München,Bayer 04 Leverkusen,1 - 1
+222,25,05/03/2022 17:30,Mercedes-Benz Arena,VfB Stuttgart,Borussia Mönchengladbach,3 - 2
+218,25,06/03/2022 16:30,RheinEnergieStadion,1. FC Köln,TSG Hoffenheim,0 - 1
+228,26,12/03/2022 14:30,PreZero Arena,TSG Hoffenheim,FC Bayern München,1 - 1
+229,26,12/03/2022 14:30,SC-Stadion,SC Freiburg,VfL Wolfsburg,3 - 2
+231,26,12/03/2022 14:30,Stadion An der Alten Försterei,1. FC Union Berlin,VfB Stuttgart,1 - 1
+230,26,12/03/2022 17:30,Borussia-Park,Borussia Mönchengladbach,Hertha BSC,2 - 0
+232,26,13/03/2022 14:30,BayArena,Bayer 04 Leverkusen,1. FC Köln,0 - 1
+233,26,13/03/2022 16:30,Deutsche Bank Park,Eintracht Frankfurt,VfL Bochum,2 - 1
+234,26,13/03/2022 16:30,Signal Iduna Park,Borussia Dortmund,Arminia Bielefeld,1 - 0
+226,26,13/03/2022 18:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,RB Leipzig,1 - 6
+221,26,16/03/2022 17:30,Opel Arena,1. FSV Mainz 05,Borussia Dortmund,0 - 1
+236,27,18/03/2022 19:30,Vonovia Ruhrstadion,VfL Bochum,Borussia Mönchengladbach,0 - 2
+235,27,19/03/2022 14:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,SC Freiburg,0 - 0
+238,27,19/03/2022 14:30,Olympiastadion,Hertha BSC,TSG Hoffenheim,3 - 0
+239,27,19/03/2022 14:30,Opel Arena,1. FSV Mainz 05,Arminia Bielefeld,4 - 0
+240,27,19/03/2022 14:30,Mercedes-Benz Arena,VfB Stuttgart,FC Augsburg,3 - 2
+243,27,19/03/2022 17:30,Allianz Arena,FC Bayern München,1. FC Union Berlin,4 - 0
+242,27,20/03/2022 14:30,Red Bull Arena,RB Leipzig,Eintracht Frankfurt,0 - 0
+241,27,20/03/2022 16:30,Volkswagen Arena,VfL Wolfsburg,Bayer 04 Leverkusen,0 - 2
+237,27,20/03/2022 18:30,RheinEnergieStadion,1. FC Köln,Borussia Dortmund,1 - 1
+249,28,01/04/2022 18:30,Stadion An der Alten Försterei,1. FC Union Berlin,1. FC Köln,1 - 0
+244,28,02/04/2022 13:30,Schüco-Arena,Arminia Bielefeld,VfB Stuttgart,1 - 1
+246,28,02/04/2022 13:30,PreZero Arena,TSG Hoffenheim,VfL Bochum,1 - 2
+247,28,02/04/2022 13:30,SC-Stadion,SC Freiburg,FC Bayern München,1 - 4
+250,28,02/04/2022 13:30,BayArena,Bayer 04 Leverkusen,Hertha BSC,2 - 1
+251,28,02/04/2022 13:30,Deutsche Bank Park,Eintracht Frankfurt,SpVgg Greuther Fürth,0 - 0
+252,28,02/04/2022 16:30,Signal Iduna Park,Borussia Dortmund,RB Leipzig,1 - 4
+245,28,03/04/2022 13:30,WWK Arena,FC Augsburg,VfL Wolfsburg,3 - 0
+248,28,03/04/2022 15:30,Borussia-Park,Borussia Mönchengladbach,1. FSV Mainz 05,1 - 1
+227,28,06/04/2022 16:30,WWK Arena,FC Augsburg,1. FSV Mainz 05,2 - 1
+257,29,08/04/2022 18:30,Mercedes-Benz Arena,VfB Stuttgart,Borussia Dortmund,0 - 2
+253,29,09/04/2022 13:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,Borussia Mönchengladbach,0 - 2
+255,29,09/04/2022 13:30,RheinEnergieStadion,1. FC Köln,1. FSV Mainz 05,3 - 2
+259,29,09/04/2022 13:30,Volkswagen Arena,VfL Wolfsburg,Arminia Bielefeld,4 - 0
+261,29,09/04/2022 13:30,Allianz Arena,FC Bayern München,FC Augsburg,1 - 0
+256,29,09/04/2022 16:30,Olympiastadion,Hertha BSC,1. FC Union Berlin,1 - 4
+254,29,10/04/2022 13:30,Vonovia Ruhrstadion,VfL Bochum,Bayer 04 Leverkusen,0 - 0
+258,29,10/04/2022 15:30,Deutsche Bank Park,Eintracht Frankfurt,SC Freiburg,1 - 2
+260,29,10/04/2022 17:30,Red Bull Arena,RB Leipzig,TSG Hoffenheim,3 - 0
+263,30,16/04/2022 13:30,WWK Arena,FC Augsburg,Hertha BSC,0 - 1
+264,30,16/04/2022 13:30,Opel Arena,1. FSV Mainz 05,VfB Stuttgart,0 - 0
+266,30,16/04/2022 13:30,SC-Stadion,SC Freiburg,VfL Bochum,3 - 0
+270,30,16/04/2022 13:30,Signal Iduna Park,Borussia Dortmund,VfL Wolfsburg,6 - 1
+267,30,16/04/2022 16:30,Borussia-Park,Borussia Mönchengladbach,1. FC Köln,1 - 3
+262,30,17/04/2022 13:30,Schüco-Arena,Arminia Bielefeld,FC Bayern München,0 - 3
+265,30,17/04/2022 15:30,PreZero Arena,TSG Hoffenheim,SpVgg Greuther Fürth,0 - 0
+268,30,17/04/2022 15:30,Stadion An der Alten Försterei,1. FC Union Berlin,Eintracht Frankfurt,2 - 0
+269,30,17/04/2022 17:30,BayArena,Bayer 04 Leverkusen,RB Leipzig,0 - 1
+277,31,22/04/2022 18:30,Volkswagen Arena,VfL Wolfsburg,1. FSV Mainz 05,5 - 0
+271,31,23/04/2022 13:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,Bayer 04 Leverkusen,1 - 4
+273,31,23/04/2022 13:30,RheinEnergieStadion,1. FC Köln,Arminia Bielefeld,3 - 1
+275,31,23/04/2022 13:30,SC-Stadion,SC Freiburg,Borussia Mönchengladbach,3 - 3
+276,31,23/04/2022 13:30,Deutsche Bank Park,Eintracht Frankfurt,TSG Hoffenheim,2 - 2
+278,31,23/04/2022 13:30,Red Bull Arena,RB Leipzig,1. FC Union Berlin,1 - 2
+279,31,23/04/2022 16:30,Allianz Arena,FC Bayern München,Borussia Dortmund,3 - 1
+272,31,24/04/2022 13:30,Vonovia Ruhrstadion,VfL Bochum,FC Augsburg,0 - 2
+274,31,24/04/2022 15:30,Olympiastadion,Hertha BSC,VfB Stuttgart,2 - 0
+286,32,29/04/2022 18:30,Stadion An der Alten Försterei,1. FC Union Berlin,SpVgg Greuther Fürth,1 - 1
+280,32,30/04/2022 13:30,Schüco-Arena,Arminia Bielefeld,Hertha BSC,1 - 1
+281,32,30/04/2022 13:30,WWK Arena,FC Augsburg,1. FC Köln,1 - 4
+282,32,30/04/2022 13:30,Opel Arena,1. FSV Mainz 05,FC Bayern München,3 - 1
+284,32,30/04/2022 13:30,Mercedes-Benz Arena,VfB Stuttgart,VfL Wolfsburg,1 - 1
+288,32,30/04/2022 13:30,Signal Iduna Park,Borussia Dortmund,VfL Bochum,3 - 4
+283,32,30/04/2022 16:30,PreZero Arena,TSG Hoffenheim,SC Freiburg,3 - 4
+285,32,02/05/2022 18:30,Borussia-Park,Borussia Mönchengladbach,RB Leipzig,3 - 1
+287,32,02/05/2022 18:30,BayArena,Bayer 04 Leverkusen,Eintracht Frankfurt,2 - 0
+290,33,06/05/2022 18:30,Vonovia Ruhrstadion,VfL Bochum,Arminia Bielefeld,2 - 1
+289,33,07/05/2022 13:30,Sportpark Ronhof Thomas Sommer,SpVgg Greuther Fürth,Borussia Dortmund,1 - 3
+291,33,07/05/2022 13:30,RheinEnergieStadion,1. FC Köln,VfL Wolfsburg,0 - 1
+293,33,07/05/2022 13:30,PreZero Arena,TSG Hoffenheim,Bayer 04 Leverkusen,2 - 4
+294,33,07/05/2022 13:30,SC-Stadion,SC Freiburg,1. FC Union Berlin,1 - 4
+292,33,07/05/2022 16:30,Olympiastadion,Hertha BSC,1. FSV Mainz 05,1 - 2
+295,33,08/05/2022 13:30,Deutsche Bank Park,Eintracht Frankfurt,Borussia Mönchengladbach,1 - 1
+297,33,08/05/2022 15:30,Allianz Arena,FC Bayern München,VfB Stuttgart,2 - 2
+296,33,08/05/2022 17:30,Red Bull Arena,RB Leipzig,FC Augsburg,4 - 0
+298,34,14/05/2022 13:30,Schüco-Arena,Arminia Bielefeld,RB Leipzig,1 - 1
+299,34,14/05/2022 13:30,WWK Arena,FC Augsburg,SpVgg Greuther Fürth,2 - 1
+300,34,14/05/2022 13:30,Opel Arena,1. FSV Mainz 05,Eintracht Frankfurt,2 - 2
+301,34,14/05/2022 13:30,Mercedes-Benz Arena,VfB Stuttgart,1. FC Köln,2 - 1
+302,34,14/05/2022 13:30,Borussia-Park,Borussia Mönchengladbach,TSG Hoffenheim,5 - 1
+303,34,14/05/2022 13:30,Stadion An der Alten Försterei,1. FC Union Berlin,VfL Bochum,3 - 2
+304,34,14/05/2022 13:30,BayArena,Bayer 04 Leverkusen,SC Freiburg,2 - 1
+305,34,14/05/2022 13:30,Volkswagen Arena,VfL Wolfsburg,FC Bayern München,2 - 2
+306,34,14/05/2022 13:30,Signal Iduna Park,Borussia Dortmund,Hertha BSC,2 - 1

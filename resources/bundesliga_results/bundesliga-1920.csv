@@ -1,0 +1,307 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,16/08/2019 18:30,Allianz Arena,FC Bayern München,Hertha BSC,2 - 2
+3,1,17/08/2019 13:30,BayArena,Bayer 04 Leverkusen,SC Paderborn 07,3 - 2
+4,1,17/08/2019 13:30,BORUSSIA-PARK,Borussia Mönchengladbach,FC Schalke 04,0 - 0
+5,1,17/08/2019 13:30,Volkswagen Arena,VfL Wolfsburg,1. FC Köln,2 - 1
+7,1,17/08/2019 13:30,wohninvest WESERSTADION,SV Werder Bremen,Fortuna Düsseldorf,1 - 3
+8,1,17/08/2019 13:30,Schwarzwald-Stadion,SC Freiburg,1. FSV Mainz 05,3 - 0
+2,1,17/08/2019 16:30,SIGNAL IDUNA PARK,Borussia Dortmund,FC Augsburg,5 - 1
+6,1,18/08/2019 13:30,Commerzbank-Arena,Eintracht Frankfurt,TSG Hoffenheim,1 - 0
+9,1,18/08/2019 16:00,An der Alten Försterei,1. FC Union Berlin,RB Leipzig,0 - 4
+17,2,23/08/2019 18:30,RheinEnergieSTADION,1. FC Köln,Borussia Dortmund,1 - 3
+11,2,24/08/2019 13:30,PreZero Arena,TSG Hoffenheim,SV Werder Bremen,3 - 2
+12,2,24/08/2019 13:30,Merkur Spielarena,Fortuna Düsseldorf,Bayer 04 Leverkusen,1 - 3
+14,2,24/08/2019 13:30,OPEL ARENA,1. FSV Mainz 05,Borussia Mönchengladbach,1 - 3
+16,2,24/08/2019 13:30,WWK ARENA,FC Augsburg,1. FC Union Berlin,1 - 1
+18,2,24/08/2019 13:30,Benteler-Arena,SC Paderborn 07,SC Freiburg,1 - 3
+15,2,24/08/2019 16:30,VELTINS-Arena,FC Schalke 04,FC Bayern München,0 - 3
+10,2,25/08/2019 13:30,Red Bull Arena,RB Leipzig,Eintracht Frankfurt,2 - 1
+13,2,25/08/2019 16:00,Olympiastadion,Hertha BSC,VfL Wolfsburg,0 - 3
+21,3,30/08/2019 18:30,BORUSSIA-PARK,Borussia Mönchengladbach,RB Leipzig,1 - 3
+19,3,31/08/2019 13:30,Allianz Arena,FC Bayern München,1. FSV Mainz 05,6 - 1
+20,3,31/08/2019 13:30,BayArena,Bayer 04 Leverkusen,TSG Hoffenheim,0 - 0
+22,3,31/08/2019 13:30,Volkswagen Arena,VfL Wolfsburg,SC Paderborn 07,1 - 1
+25,3,31/08/2019 13:30,Schwarzwald-Stadion,SC Freiburg,1. FC Köln,1 - 2
+26,3,31/08/2019 13:30,VELTINS-Arena,FC Schalke 04,Hertha BSC,3 - 0
+27,3,31/08/2019 16:30,An der Alten Försterei,1. FC Union Berlin,Borussia Dortmund,3 - 1
+24,3,01/09/2019 13:30,wohninvest WESERSTADION,SV Werder Bremen,FC Augsburg,3 - 2
+23,3,01/09/2019 16:00,Commerzbank-Arena,Eintracht Frankfurt,Fortuna Düsseldorf,2 - 1
+31,4,13/09/2019 18:30,Merkur Spielarena,Fortuna Düsseldorf,VfL Wolfsburg,1 - 1
+28,4,14/09/2019 13:30,SIGNAL IDUNA PARK,Borussia Dortmund,Bayer 04 Leverkusen,4 - 0
+32,4,14/09/2019 13:30,OPEL ARENA,1. FSV Mainz 05,Hertha BSC,2 - 1
+33,4,14/09/2019 13:30,WWK ARENA,FC Augsburg,Eintracht Frankfurt,2 - 1
+34,4,14/09/2019 13:30,RheinEnergieSTADION,1. FC Köln,Borussia Mönchengladbach,0 - 1
+36,4,14/09/2019 13:30,An der Alten Försterei,1. FC Union Berlin,SV Werder Bremen,1 - 2
+29,4,14/09/2019 16:30,Red Bull Arena,RB Leipzig,FC Bayern München,1 - 1
+30,4,15/09/2019 13:30,PreZero Arena,TSG Hoffenheim,SC Freiburg,0 - 3
+35,4,15/09/2019 16:00,Benteler-Arena,SC Paderborn 07,FC Schalke 04,1 - 5
+45,5,20/09/2019 18:30,VELTINS-Arena,FC Schalke 04,1. FSV Mainz 05,2 - 1
+37,5,21/09/2019 13:30,Allianz Arena,FC Bayern München,1. FC Köln,4 - 0
+38,5,21/09/2019 13:30,BayArena,Bayer 04 Leverkusen,1. FC Union Berlin,2 - 0
+43,5,21/09/2019 13:30,Olympiastadion,Hertha BSC,SC Paderborn 07,2 - 1
+44,5,21/09/2019 13:30,Schwarzwald-Stadion,SC Freiburg,FC Augsburg,1 - 1
+42,5,21/09/2019 16:30,wohninvest WESERSTADION,SV Werder Bremen,RB Leipzig,0 - 3
+39,5,22/09/2019 13:30,BORUSSIA-PARK,Borussia Mönchengladbach,Fortuna Düsseldorf,2 - 1
+41,5,22/09/2019 16:00,Commerzbank-Arena,Eintracht Frankfurt,Borussia Dortmund,2 - 2
+40,5,23/09/2019 18:30,Volkswagen Arena,VfL Wolfsburg,TSG Hoffenheim,1 - 1
+54,6,27/09/2019 18:30,An der Alten Försterei,1. FC Union Berlin,Eintracht Frankfurt,1 - 2
+47,6,28/09/2019 13:30,Red Bull Arena,RB Leipzig,FC Schalke 04,1 - 3
+48,6,28/09/2019 13:30,PreZero Arena,TSG Hoffenheim,Borussia Mönchengladbach,0 - 3
+50,6,28/09/2019 13:30,OPEL ARENA,1. FSV Mainz 05,VfL Wolfsburg,0 - 1
+51,6,28/09/2019 13:30,WWK ARENA,FC Augsburg,Bayer 04 Leverkusen,0 - 3
+53,6,28/09/2019 13:30,Benteler-Arena,SC Paderborn 07,FC Bayern München,2 - 3
+46,6,28/09/2019 16:30,SIGNAL IDUNA PARK,Borussia Dortmund,SV Werder Bremen,2 - 2
+49,6,29/09/2019 13:30,Merkur Spielarena,Fortuna Düsseldorf,SC Freiburg,1 - 2
+52,6,29/09/2019 16:00,RheinEnergieSTADION,1. FC Köln,Hertha BSC,0 - 4
+60,7,04/10/2019 18:30,Olympiastadion,Hertha BSC,Fortuna Düsseldorf,3 - 1
+55,7,05/10/2019 13:30,Allianz Arena,FC Bayern München,TSG Hoffenheim,1 - 2
+56,7,05/10/2019 13:30,BayArena,Bayer 04 Leverkusen,RB Leipzig,1 - 1
+61,7,05/10/2019 13:30,Schwarzwald-Stadion,SC Freiburg,Borussia Dortmund,2 - 2
+63,7,05/10/2019 13:30,Benteler-Arena,SC Paderborn 07,1. FSV Mainz 05,1 - 2
+62,7,05/10/2019 16:30,VELTINS-Arena,FC Schalke 04,1. FC Köln,1 - 1
+57,7,06/10/2019 11:30,BORUSSIA-PARK,Borussia Mönchengladbach,FC Augsburg,5 - 1
+58,7,06/10/2019 13:30,Volkswagen Arena,VfL Wolfsburg,1. FC Union Berlin,1 - 0
+59,7,06/10/2019 16:00,Commerzbank-Arena,Eintracht Frankfurt,SV Werder Bremen,2 - 2
+66,8,18/10/2019 18:30,Commerzbank-Arena,Eintracht Frankfurt,Bayer 04 Leverkusen,3 - 0
+65,8,19/10/2019 13:30,Red Bull Arena,RB Leipzig,VfL Wolfsburg,1 - 1
+67,8,19/10/2019 13:30,wohninvest WESERSTADION,SV Werder Bremen,Hertha BSC,1 - 1
+69,8,19/10/2019 13:30,Merkur Spielarena,Fortuna Düsseldorf,1. FSV Mainz 05,1 - 0
+70,8,19/10/2019 13:30,WWK ARENA,FC Augsburg,FC Bayern München,2 - 2
+72,8,19/10/2019 13:30,An der Alten Försterei,1. FC Union Berlin,SC Freiburg,2 - 0
+64,8,19/10/2019 16:30,SIGNAL IDUNA PARK,Borussia Dortmund,Borussia Mönchengladbach,1 - 0
+71,8,20/10/2019 13:30,RheinEnergieSTADION,1. FC Köln,SC Paderborn 07,3 - 0
+68,8,20/10/2019 16:00,PreZero Arena,TSG Hoffenheim,FC Schalke 04,2 - 0
+78,9,25/10/2019 18:30,OPEL ARENA,1. FSV Mainz 05,1. FC Köln,3 - 1
+73,9,26/10/2019 13:30,Allianz Arena,FC Bayern München,1. FC Union Berlin,2 - 1
+77,9,26/10/2019 13:30,Olympiastadion,Hertha BSC,TSG Hoffenheim,2 - 3
+79,9,26/10/2019 13:30,Schwarzwald-Stadion,SC Freiburg,RB Leipzig,2 - 1
+80,9,26/10/2019 13:30,VELTINS-Arena,FC Schalke 04,Borussia Dortmund,0 - 0
+81,9,26/10/2019 13:30,Benteler-Arena,SC Paderborn 07,Fortuna Düsseldorf,2 - 0
+74,9,26/10/2019 16:30,BayArena,Bayer 04 Leverkusen,SV Werder Bremen,2 - 2
+76,9,27/10/2019 14:30,Volkswagen Arena,VfL Wolfsburg,FC Augsburg,0 - 0
+75,9,27/10/2019 17:00,BORUSSIA-PARK,Borussia Mönchengladbach,Eintracht Frankfurt,4 - 2
+87,10,01/11/2019 19:30,PreZero Arena,TSG Hoffenheim,SC Paderborn 07,3 - 0
+82,10,02/11/2019 14:30,SIGNAL IDUNA PARK,Borussia Dortmund,VfL Wolfsburg,3 - 0
+83,10,02/11/2019 14:30,Red Bull Arena,RB Leipzig,1. FSV Mainz 05,8 - 0
+84,10,02/11/2019 14:30,BayArena,Bayer 04 Leverkusen,Borussia Mönchengladbach,1 - 2
+85,10,02/11/2019 14:30,Commerzbank-Arena,Eintracht Frankfurt,FC Bayern München,5 - 1
+86,10,02/11/2019 14:30,wohninvest WESERSTADION,SV Werder Bremen,SC Freiburg,2 - 2
+90,10,02/11/2019 17:30,An der Alten Försterei,1. FC Union Berlin,Hertha BSC,1 - 0
+88,10,03/11/2019 14:30,Merkur Spielarena,Fortuna Düsseldorf,1. FC Köln,2 - 0
+89,10,03/11/2019 17:00,WWK ARENA,FC Augsburg,FC Schalke 04,2 - 3
+98,11,08/11/2019 19:30,RheinEnergieSTADION,1. FC Köln,TSG Hoffenheim,1 - 2
+94,11,09/11/2019 14:30,Olympiastadion,Hertha BSC,RB Leipzig,2 - 4
+95,11,09/11/2019 14:30,OPEL ARENA,1. FSV Mainz 05,1. FC Union Berlin,2 - 3
+97,11,09/11/2019 14:30,VELTINS-Arena,FC Schalke 04,Fortuna Düsseldorf,3 - 3
+99,11,09/11/2019 14:30,Benteler-Arena,SC Paderborn 07,FC Augsburg,0 - 1
+91,11,09/11/2019 17:30,Allianz Arena,FC Bayern München,Borussia Dortmund,4 - 0
+92,11,10/11/2019 12:30,BORUSSIA-PARK,Borussia Mönchengladbach,SV Werder Bremen,3 - 1
+93,11,10/11/2019 14:30,Volkswagen Arena,VfL Wolfsburg,Bayer 04 Leverkusen,0 - 2
+96,11,10/11/2019 17:00,Schwarzwald-Stadion,SC Freiburg,Eintracht Frankfurt,1 - 0
+100,12,22/11/2019 19:30,SIGNAL IDUNA PARK,Borussia Dortmund,SC Paderborn 07,3 - 3
+102,12,23/11/2019 14:30,BayArena,Bayer 04 Leverkusen,SC Freiburg,1 - 1
+103,12,23/11/2019 14:30,Commerzbank-Arena,Eintracht Frankfurt,VfL Wolfsburg,0 - 2
+104,12,23/11/2019 14:30,wohninvest WESERSTADION,SV Werder Bremen,FC Schalke 04,1 - 2
+106,12,23/11/2019 14:30,Merkur Spielarena,Fortuna Düsseldorf,FC Bayern München,0 - 4
+108,12,23/11/2019 14:30,An der Alten Försterei,1. FC Union Berlin,Borussia Mönchengladbach,2 - 0
+101,12,23/11/2019 17:30,Red Bull Arena,RB Leipzig,1. FC Köln,4 - 1
+107,12,24/11/2019 14:30,WWK ARENA,FC Augsburg,Hertha BSC,4 - 0
+105,12,24/11/2019 17:00,PreZero Arena,TSG Hoffenheim,1. FSV Mainz 05,1 - 5
+115,13,29/11/2019 19:30,VELTINS-Arena,FC Schalke 04,1. FC Union Berlin,2 - 1
+112,13,30/11/2019 14:30,PreZero Arena,TSG Hoffenheim,Fortuna Düsseldorf,1 - 1
+113,13,30/11/2019 14:30,Olympiastadion,Hertha BSC,Borussia Dortmund,1 - 2
+116,13,30/11/2019 14:30,RheinEnergieSTADION,1. FC Köln,FC Augsburg,1 - 1
+117,13,30/11/2019 14:30,Benteler-Arena,SC Paderborn 07,RB Leipzig,2 - 3
+109,13,30/11/2019 17:30,Allianz Arena,FC Bayern München,Bayer 04 Leverkusen,1 - 2
+110,13,01/12/2019 14:30,BORUSSIA-PARK,Borussia Mönchengladbach,SC Freiburg,4 - 2
+111,13,01/12/2019 17:00,Volkswagen Arena,VfL Wolfsburg,SV Werder Bremen,2 - 3
+114,13,02/12/2019 19:30,OPEL ARENA,1. FSV Mainz 05,Eintracht Frankfurt,2 - 1
+122,14,06/12/2019 19:30,Commerzbank-Arena,Eintracht Frankfurt,Hertha BSC,2 - 2
+118,14,07/12/2019 14:30,SIGNAL IDUNA PARK,Borussia Dortmund,Fortuna Düsseldorf,5 - 0
+119,14,07/12/2019 14:30,Red Bull Arena,RB Leipzig,TSG Hoffenheim,3 - 1
+121,14,07/12/2019 14:30,BORUSSIA-PARK,Borussia Mönchengladbach,FC Bayern München,2 - 1
+124,14,07/12/2019 14:30,Schwarzwald-Stadion,SC Freiburg,VfL Wolfsburg,1 - 0
+125,14,07/12/2019 14:30,WWK ARENA,FC Augsburg,1. FSV Mainz 05,2 - 1
+120,14,07/12/2019 17:30,BayArena,Bayer 04 Leverkusen,FC Schalke 04,2 - 1
+126,14,08/12/2019 14:30,An der Alten Försterei,1. FC Union Berlin,1. FC Köln,2 - 0
+123,14,08/12/2019 17:00,wohninvest WESERSTADION,SV Werder Bremen,SC Paderborn 07,0 - 1
+129,15,13/12/2019 19:30,PreZero Arena,TSG Hoffenheim,FC Augsburg,2 - 4
+127,15,14/12/2019 14:30,Allianz Arena,FC Bayern München,SV Werder Bremen,6 - 1
+131,15,14/12/2019 14:30,Olympiastadion,Hertha BSC,SC Freiburg,1 - 0
+132,15,14/12/2019 14:30,OPEL ARENA,1. FSV Mainz 05,Borussia Dortmund,0 - 4
+134,15,14/12/2019 14:30,RheinEnergieSTADION,1. FC Köln,Bayer 04 Leverkusen,2 - 0
+135,15,14/12/2019 14:30,Benteler-Arena,SC Paderborn 07,1. FC Union Berlin,1 - 1
+130,15,14/12/2019 17:30,Merkur Spielarena,Fortuna Düsseldorf,RB Leipzig,0 - 3
+128,15,15/12/2019 14:30,Volkswagen Arena,VfL Wolfsburg,Borussia Mönchengladbach,2 - 1
+133,15,15/12/2019 19:00,VELTINS-Arena,FC Schalke 04,Eintracht Frankfurt,1 - 0
+141,16,17/12/2019 17:30,wohninvest WESERSTADION,SV Werder Bremen,1. FSV Mainz 05,0 - 5
+136,16,17/12/2019 19:30,SIGNAL IDUNA PARK,Borussia Dortmund,RB Leipzig,3 - 3
+143,16,17/12/2019 19:30,WWK ARENA,FC Augsburg,Fortuna Düsseldorf,3 - 0
+144,16,17/12/2019 19:30,An der Alten Försterei,1. FC Union Berlin,TSG Hoffenheim,0 - 2
+137,16,18/12/2019 17:30,BayArena,Bayer 04 Leverkusen,Hertha BSC,0 - 1
+138,16,18/12/2019 19:30,BORUSSIA-PARK,Borussia Mönchengladbach,SC Paderborn 07,2 - 0
+139,16,18/12/2019 19:30,Volkswagen Arena,VfL Wolfsburg,FC Schalke 04,1 - 1
+140,16,18/12/2019 19:30,Commerzbank-Arena,Eintracht Frankfurt,1. FC Köln,2 - 4
+142,16,18/12/2019 19:30,Schwarzwald-Stadion,SC Freiburg,FC Bayern München,1 - 3
+147,17,20/12/2019 19:30,PreZero Arena,TSG Hoffenheim,Borussia Dortmund,2 - 1
+145,17,21/12/2019 14:30,Allianz Arena,FC Bayern München,VfL Wolfsburg,2 - 0
+146,17,21/12/2019 14:30,Red Bull Arena,RB Leipzig,FC Augsburg,3 - 1
+150,17,21/12/2019 14:30,OPEL ARENA,1. FSV Mainz 05,Bayer 04 Leverkusen,0 - 1
+151,17,21/12/2019 14:30,VELTINS-Arena,FC Schalke 04,SC Freiburg,2 - 2
+152,17,21/12/2019 14:30,RheinEnergieSTADION,1. FC Köln,SV Werder Bremen,1 - 0
+149,17,21/12/2019 17:30,Olympiastadion,Hertha BSC,Borussia Mönchengladbach,0 - 0
+148,17,22/12/2019 14:30,Merkur Spielarena,Fortuna Düsseldorf,1. FC Union Berlin,2 - 1
+153,17,22/12/2019 17:00,Benteler-Arena,SC Paderborn 07,Eintracht Frankfurt,2 - 1
+159,18,17/01/2020 19:30,VELTINS-Arena,FC Schalke 04,Borussia Mönchengladbach,2 - 0
+155,18,18/01/2020 14:30,PreZero Arena,TSG Hoffenheim,Eintracht Frankfurt,1 - 2
+156,18,18/01/2020 14:30,Merkur Spielarena,Fortuna Düsseldorf,SV Werder Bremen,0 - 1
+158,18,18/01/2020 14:30,OPEL ARENA,1. FSV Mainz 05,SC Freiburg,1 - 2
+160,18,18/01/2020 14:30,WWK ARENA,FC Augsburg,Borussia Dortmund,3 - 5
+161,18,18/01/2020 14:30,RheinEnergieSTADION,1. FC Köln,VfL Wolfsburg,3 - 1
+154,18,18/01/2020 17:30,Red Bull Arena,RB Leipzig,1. FC Union Berlin,3 - 1
+157,18,19/01/2020 14:30,Olympiastadion,Hertha BSC,FC Bayern München,0 - 4
+162,18,19/01/2020 19:00,Benteler-Arena,SC Paderborn 07,Bayer 04 Leverkusen,1 - 4
+164,19,24/01/2020 19:30,SIGNAL IDUNA PARK,Borussia Dortmund,1. FC Köln,5 - 1
+166,19,25/01/2020 14:30,BORUSSIA-PARK,Borussia Mönchengladbach,1. FSV Mainz 05,3 - 1
+167,19,25/01/2020 14:30,Volkswagen Arena,VfL Wolfsburg,Hertha BSC,1 - 2
+168,19,25/01/2020 14:30,Commerzbank-Arena,Eintracht Frankfurt,RB Leipzig,2 - 0
+170,19,25/01/2020 14:30,Schwarzwald-Stadion,SC Freiburg,SC Paderborn 07,0 - 2
+171,19,25/01/2020 14:30,An der Alten Försterei,1. FC Union Berlin,FC Augsburg,2 - 0
+163,19,25/01/2020 17:30,Allianz Arena,FC Bayern München,FC Schalke 04,5 - 0
+169,19,26/01/2020 14:30,wohninvest WESERSTADION,SV Werder Bremen,TSG Hoffenheim,0 - 3
+165,19,26/01/2020 17:00,BayArena,Bayer 04 Leverkusen,Fortuna Düsseldorf,3 - 0
+176,20,31/01/2020 19:30,Olympiastadion,Hertha BSC,FC Schalke 04,0 - 0
+172,20,01/02/2020 14:30,SIGNAL IDUNA PARK,Borussia Dortmund,1. FC Union Berlin,5 - 0
+174,20,01/02/2020 14:30,PreZero Arena,TSG Hoffenheim,Bayer 04 Leverkusen,2 - 1
+175,20,01/02/2020 14:30,Merkur Spielarena,Fortuna Düsseldorf,Eintracht Frankfurt,1 - 1
+177,20,01/02/2020 14:30,OPEL ARENA,1. FSV Mainz 05,FC Bayern München,1 - 3
+178,20,01/02/2020 14:30,WWK ARENA,FC Augsburg,SV Werder Bremen,2 - 1
+173,20,01/02/2020 17:30,Red Bull Arena,RB Leipzig,Borussia Mönchengladbach,2 - 2
+179,20,02/02/2020 14:30,RheinEnergieSTADION,1. FC Köln,SC Freiburg,4 - 0
+180,20,02/02/2020 17:00,Benteler-Arena,SC Paderborn 07,VfL Wolfsburg,2 - 4
+185,21,07/02/2020 19:30,Commerzbank-Arena,Eintracht Frankfurt,FC Augsburg,5 - 0
+184,21,08/02/2020 14:30,Volkswagen Arena,VfL Wolfsburg,Fortuna Düsseldorf,1 - 1
+186,21,08/02/2020 14:30,wohninvest WESERSTADION,SV Werder Bremen,1. FC Union Berlin,0 - 2
+187,21,08/02/2020 14:30,Olympiastadion,Hertha BSC,1. FSV Mainz 05,1 - 3
+188,21,08/02/2020 14:30,Schwarzwald-Stadion,SC Freiburg,TSG Hoffenheim,1 - 0
+189,21,08/02/2020 14:30,VELTINS-Arena,FC Schalke 04,SC Paderborn 07,1 - 1
+182,21,08/02/2020 17:30,BayArena,Bayer 04 Leverkusen,Borussia Dortmund,4 - 3
+181,21,09/02/2020 17:00,Allianz Arena,FC Bayern München,RB Leipzig,0 - 0
+190,22,14/02/2020 19:30,SIGNAL IDUNA PARK,Borussia Dortmund,Eintracht Frankfurt,4 - 0
+191,22,15/02/2020 14:30,Red Bull Arena,RB Leipzig,SV Werder Bremen,3 - 0
+192,22,15/02/2020 14:30,PreZero Arena,TSG Hoffenheim,VfL Wolfsburg,2 - 3
+195,22,15/02/2020 14:30,WWK ARENA,FC Augsburg,SC Freiburg,1 - 1
+197,22,15/02/2020 14:30,Benteler-Arena,SC Paderborn 07,Hertha BSC,1 - 2
+198,22,15/02/2020 14:30,An der Alten Försterei,1. FC Union Berlin,Bayer 04 Leverkusen,2 - 3
+193,22,15/02/2020 17:30,Merkur Spielarena,Fortuna Düsseldorf,Borussia Mönchengladbach,1 - 4
+196,22,16/02/2020 14:30,RheinEnergieSTADION,1. FC Köln,FC Bayern München,1 - 4
+194,22,16/02/2020 17:00,OPEL ARENA,1. FSV Mainz 05,FC Schalke 04,0 - 0
+199,23,21/02/2020 19:30,Allianz Arena,FC Bayern München,SC Paderborn 07,3 - 2
+201,23,22/02/2020 14:30,BORUSSIA-PARK,Borussia Mönchengladbach,TSG Hoffenheim,1 - 1
+204,23,22/02/2020 14:30,wohninvest WESERSTADION,SV Werder Bremen,Borussia Dortmund,0 - 2
+205,23,22/02/2020 14:30,Olympiastadion,Hertha BSC,1. FC Köln,0 - 5
+206,23,22/02/2020 14:30,Schwarzwald-Stadion,SC Freiburg,Fortuna Düsseldorf,0 - 2
+207,23,22/02/2020 17:30,VELTINS-Arena,FC Schalke 04,RB Leipzig,0 - 5
+200,23,23/02/2020 14:30,BayArena,Bayer 04 Leverkusen,FC Augsburg,2 - 0
+202,23,23/02/2020 17:00,Volkswagen Arena,VfL Wolfsburg,1. FSV Mainz 05,4 - 0
+203,23,24/02/2020 19:30,Commerzbank-Arena,Eintracht Frankfurt,1. FC Union Berlin,1 - 2
+212,24,28/02/2020 19:30,Merkur Spielarena,Fortuna Düsseldorf,Hertha BSC,3 - 3
+208,24,29/02/2020 14:30,SIGNAL IDUNA PARK,Borussia Dortmund,SC Freiburg,1 - 0
+211,24,29/02/2020 14:30,PreZero Arena,TSG Hoffenheim,FC Bayern München,0 - 6
+213,24,29/02/2020 14:30,OPEL ARENA,1. FSV Mainz 05,SC Paderborn 07,2 - 0
+214,24,29/02/2020 14:30,WWK ARENA,FC Augsburg,Borussia Mönchengladbach,2 - 3
+215,24,29/02/2020 17:30,RheinEnergieSTADION,1. FC Köln,FC Schalke 04,3 - 0
+216,24,01/03/2020 12:30,An der Alten Försterei,1. FC Union Berlin,VfL Wolfsburg,2 - 2
+209,24,01/03/2020 14:30,Red Bull Arena,RB Leipzig,Bayer 04 Leverkusen,1 - 1
+225,25,06/03/2020 19:00,Benteler-Arena,SC Paderborn 07,1. FC Köln,1 - 2
+218,25,07/03/2020 14:30,BayArena,Bayer 04 Leverkusen,Eintracht Frankfurt,4 - 0
+220,25,07/03/2020 14:30,Volkswagen Arena,VfL Wolfsburg,RB Leipzig,0 - 0
+221,25,07/03/2020 14:30,Olympiastadion,Hertha BSC,SV Werder Bremen,2 - 2
+223,25,07/03/2020 14:30,Schwarzwald-Stadion,SC Freiburg,1. FC Union Berlin,3 - 1
+224,25,07/03/2020 14:30,VELTINS-Arena,FC Schalke 04,TSG Hoffenheim,1 - 1
+219,25,07/03/2020 17:30,BORUSSIA-PARK,Borussia Mönchengladbach,Borussia Dortmund,1 - 2
+217,25,08/03/2020 14:30,Allianz Arena,FC Bayern München,FC Augsburg,2 - 0
+222,25,08/03/2020 17:00,OPEL ARENA,1. FSV Mainz 05,Fortuna Düsseldorf,1 - 1
+183,25,11/03/2020 17:30,BORUSSIA-PARK,Borussia Mönchengladbach,1. FC Köln,2 - 1
+226,26,16/05/2020 13:30,SIGNAL IDUNA PARK,Borussia Dortmund,FC Schalke 04,4 - 0
+227,26,16/05/2020 13:30,Red Bull Arena,RB Leipzig,SC Freiburg,1 - 1
+230,26,16/05/2020 13:30,PreZero Arena,TSG Hoffenheim,Hertha BSC,0 - 3
+231,26,16/05/2020 13:30,Merkur Spielarena,Fortuna Düsseldorf,SC Paderborn 07,0 - 0
+232,26,16/05/2020 13:30,WWK ARENA,FC Augsburg,VfL Wolfsburg,1 - 2
+228,26,16/05/2020 16:30,Commerzbank-Arena,Eintracht Frankfurt,Borussia Mönchengladbach,1 - 3
+233,26,17/05/2020 13:30,RheinEnergieSTADION,1. FC Köln,1. FSV Mainz 05,2 - 2
+234,26,17/05/2020 16:00,An der Alten Försterei,1. FC Union Berlin,FC Bayern München,0 - 2
+229,26,18/05/2020 18:30,wohninvest WESERSTADION,SV Werder Bremen,Bayer 04 Leverkusen,1 - 4
+238,27,22/05/2020 18:30,Olympiastadion,Hertha BSC,1. FC Union Berlin,4 - 0
+236,27,23/05/2020 13:30,BORUSSIA-PARK,Borussia Mönchengladbach,Bayer 04 Leverkusen,1 - 3
+237,27,23/05/2020 13:30,Volkswagen Arena,VfL Wolfsburg,Borussia Dortmund,0 - 2
+240,27,23/05/2020 13:30,Schwarzwald-Stadion,SC Freiburg,SV Werder Bremen,0 - 1
+243,27,23/05/2020 13:30,Benteler-Arena,SC Paderborn 07,TSG Hoffenheim,1 - 1
+235,27,23/05/2020 16:30,Allianz Arena,FC Bayern München,Eintracht Frankfurt,5 - 2
+241,27,24/05/2020 11:30,VELTINS-Arena,FC Schalke 04,FC Augsburg,0 - 3
+239,27,24/05/2020 13:30,OPEL ARENA,1. FSV Mainz 05,RB Leipzig,0 - 5
+242,27,24/05/2020 16:00,RheinEnergieSTADION,1. FC Köln,Fortuna Düsseldorf,2 - 2
+244,28,26/05/2020 16:30,SIGNAL IDUNA PARK,Borussia Dortmund,FC Bayern München,0 - 1
+246,28,26/05/2020 18:30,BayArena,Bayer 04 Leverkusen,VfL Wolfsburg,1 - 4
+247,28,26/05/2020 18:30,Commerzbank-Arena,Eintracht Frankfurt,SC Freiburg,3 - 3
+248,28,26/05/2020 18:30,wohninvest WESERSTADION,SV Werder Bremen,Borussia Mönchengladbach,0 - 0
+245,28,27/05/2020 16:30,Red Bull Arena,RB Leipzig,Hertha BSC,2 - 2
+249,28,27/05/2020 18:30,PreZero Arena,TSG Hoffenheim,1. FC Köln,3 - 1
+250,28,27/05/2020 18:30,Merkur Spielarena,Fortuna Düsseldorf,FC Schalke 04,2 - 1
+251,28,27/05/2020 18:30,WWK ARENA,FC Augsburg,SC Paderborn 07,0 - 0
+252,28,27/05/2020 18:30,An der Alten Försterei,1. FC Union Berlin,1. FSV Mainz 05,1 - 1
+258,29,29/05/2020 18:30,Schwarzwald-Stadion,SC Freiburg,Bayer 04 Leverkusen,0 - 1
+255,29,30/05/2020 13:30,Volkswagen Arena,VfL Wolfsburg,Eintracht Frankfurt,1 - 2
+256,29,30/05/2020 13:30,Olympiastadion,Hertha BSC,FC Augsburg,2 - 0
+257,29,30/05/2020 13:30,OPEL ARENA,1. FSV Mainz 05,TSG Hoffenheim,0 - 1
+259,29,30/05/2020 13:30,VELTINS-Arena,FC Schalke 04,SV Werder Bremen,0 - 1
+253,29,30/05/2020 16:30,Allianz Arena,FC Bayern München,Fortuna Düsseldorf,5 - 0
+254,29,31/05/2020 13:30,BORUSSIA-PARK,Borussia Mönchengladbach,1. FC Union Berlin,4 - 1
+261,29,31/05/2020 16:00,Benteler-Arena,SC Paderborn 07,Borussia Dortmund,1 - 6
+260,29,01/06/2020 18:30,RheinEnergieSTADION,1. FC Köln,RB Leipzig,2 - 4
+210,29,03/06/2020 18:30,wohninvest WESERSTADION,SV Werder Bremen,Eintracht Frankfurt,0 - 3
+268,30,05/06/2020 18:30,Schwarzwald-Stadion,SC Freiburg,Borussia Mönchengladbach,1 - 0
+263,30,06/06/2020 13:30,Red Bull Arena,RB Leipzig,SC Paderborn 07,1 - 1
+264,30,06/06/2020 13:30,BayArena,Bayer 04 Leverkusen,FC Bayern München,2 - 4
+265,30,06/06/2020 13:30,Commerzbank-Arena,Eintracht Frankfurt,1. FSV Mainz 05,0 - 2
+267,30,06/06/2020 13:30,Merkur Spielarena,Fortuna Düsseldorf,TSG Hoffenheim,2 - 2
+262,30,06/06/2020 16:30,SIGNAL IDUNA PARK,Borussia Dortmund,Hertha BSC,1 - 0
+266,30,07/06/2020 11:30,wohninvest WESERSTADION,SV Werder Bremen,VfL Wolfsburg,0 - 1
+270,30,07/06/2020 13:30,An der Alten Försterei,1. FC Union Berlin,FC Schalke 04,1 - 1
+269,30,07/06/2020 16:00,WWK ARENA,FC Augsburg,1. FC Köln,1 - 1
+273,31,12/06/2020 18:30,PreZero Arena,TSG Hoffenheim,RB Leipzig,0 - 2
+272,31,13/06/2020 13:30,Volkswagen Arena,VfL Wolfsburg,SC Freiburg,2 - 2
+274,31,13/06/2020 13:30,Merkur Spielarena,Fortuna Düsseldorf,Borussia Dortmund,0 - 1
+275,31,13/06/2020 13:30,Olympiastadion,Hertha BSC,Eintracht Frankfurt,1 - 4
+278,31,13/06/2020 13:30,RheinEnergieSTADION,1. FC Köln,1. FC Union Berlin,1 - 2
+279,31,13/06/2020 13:30,Benteler-Arena,SC Paderborn 07,SV Werder Bremen,1 - 5
+271,31,13/06/2020 16:30,Allianz Arena,FC Bayern München,Borussia Mönchengladbach,2 - 1
+276,31,14/06/2020 13:30,OPEL ARENA,1. FSV Mainz 05,FC Augsburg,0 - 1
+277,31,14/06/2020 16:00,VELTINS-Arena,FC Schalke 04,Bayer 04 Leverkusen,1 - 1
+283,32,16/06/2020 16:30,BORUSSIA-PARK,Borussia Mönchengladbach,VfL Wolfsburg,3 - 0
+285,32,16/06/2020 18:30,wohninvest WESERSTADION,SV Werder Bremen,FC Bayern München,0 - 1
+286,32,16/06/2020 18:30,Schwarzwald-Stadion,SC Freiburg,Hertha BSC,2 - 1
+288,32,16/06/2020 18:30,An der Alten Försterei,1. FC Union Berlin,SC Paderborn 07,1 - 0
+284,32,17/06/2020 16:30,Commerzbank-Arena,Eintracht Frankfurt,FC Schalke 04,2 - 1
+280,32,17/06/2020 18:30,SIGNAL IDUNA PARK,Borussia Dortmund,1. FSV Mainz 05,0 - 2
+281,32,17/06/2020 18:30,Red Bull Arena,RB Leipzig,Fortuna Düsseldorf,2 - 2
+282,32,17/06/2020 18:30,BayArena,Bayer 04 Leverkusen,1. FC Köln,3 - 1
+287,32,17/06/2020 18:30,WWK ARENA,FC Augsburg,TSG Hoffenheim,1 - 3
+289,33,20/06/2020 13:30,Allianz Arena,FC Bayern München,SC Freiburg,3 - 1
+290,33,20/06/2020 13:30,Red Bull Arena,RB Leipzig,Borussia Dortmund,0 - 2
+291,33,20/06/2020 13:30,PreZero Arena,TSG Hoffenheim,1. FC Union Berlin,4 - 0
+292,33,20/06/2020 13:30,Merkur Spielarena,Fortuna Düsseldorf,FC Augsburg,1 - 1
+293,33,20/06/2020 13:30,Olympiastadion,Hertha BSC,Bayer 04 Leverkusen,2 - 0
+294,33,20/06/2020 13:30,OPEL ARENA,1. FSV Mainz 05,SV Werder Bremen,3 - 1
+295,33,20/06/2020 13:30,VELTINS-Arena,FC Schalke 04,VfL Wolfsburg,1 - 4
+296,33,20/06/2020 13:30,RheinEnergieSTADION,1. FC Köln,Eintracht Frankfurt,1 - 1
+297,33,20/06/2020 13:30,Benteler-Arena,SC Paderborn 07,Borussia Mönchengladbach,1 - 3
+298,34,27/06/2020 13:30,SIGNAL IDUNA PARK,Borussia Dortmund,TSG Hoffenheim,0 - 4
+299,34,27/06/2020 13:30,BayArena,Bayer 04 Leverkusen,1. FSV Mainz 05,1 - 0
+300,34,27/06/2020 13:30,BORUSSIA-PARK,Borussia Mönchengladbach,Hertha BSC,2 - 1
+301,34,27/06/2020 13:30,Volkswagen Arena,VfL Wolfsburg,FC Bayern München,0 - 4
+302,34,27/06/2020 13:30,Commerzbank-Arena,Eintracht Frankfurt,SC Paderborn 07,3 - 2
+303,34,27/06/2020 13:30,wohninvest WESERSTADION,SV Werder Bremen,1. FC Köln,6 - 1
+304,34,27/06/2020 13:30,Schwarzwald-Stadion,SC Freiburg,FC Schalke 04,4 - 0
+305,34,27/06/2020 13:30,WWK ARENA,FC Augsburg,RB Leipzig,1 - 2
+306,34,27/06/2020 13:30,An der Alten Försterei,1. FC Union Berlin,Fortuna Düsseldorf,3 - 0
